@@ -1,0 +1,90 @@
+body {
+	background-color: #c9c9c9;
+}
+
+#root {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #e3e3e3;
+}
+
+#component {
+	overflow: hidden;
+}
+
+#top {
+	width: 100%;
+	height: 500px;
+}
+
+.remove_icon {
+	background-image: url("images/x_icon.svg");
+	background-size: 12px 20px;
+	width: 12px;
+	height: 20px;
+	float: right;
+	margin-right: 10px;
+}
+
+.up_icon {
+	background-image: url("images/up_icon.svg");
+	background-size: 20px 20px;
+	width: 20px;
+	height: 20px;
+	float: right;
+	margin-right: 5px;
+}
+
+.down_icon {
+	background-image: url("images/down_icon.svg");
+	background-size: 20px 20px;
+	width: 20px;
+	height: 20px;
+	float: right;
+	margin-right: 5px;
+}
+
+#credit-link {
+	float: left;
+	margin: 10px 10px;
+}
+
+#viewed-list {
+	float: right;
+	margin-right: 1%;
+	display: block;
+	background-color:#9ad3de;
+	width: 30%;
+}
+
+#viewed-list ul {
+	height: 400px;
+	overflow: hidden;
+	overflow-y: scroll;
+}
+
+#login-bar {
+	height: 50px;
+	width: 100%;
+	background-color: #89bdd3;
+	margin-bottom: 15px;
+}
+
+.login-field {
+	margin: 10px 10px;
+	float: right;
+}
+
+#weather-table {
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+thead {
+	background-color: #9ad3de;
+}
+
+#mode-select {
+	padding-top: 100px;
+}

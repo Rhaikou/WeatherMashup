@@ -1,1 +1,3 @@
 # WeatherMashup
+
+Weather site combining information from open data sources and Google APIs. Made using ReactJS and python & Flask. Assignment for JYU course TIEA218 Web Applications. Task summary and requirments: http://appro.mit.jyu.fi/web-sovellukset/vt/vt7/ Working example: http://users.jyu.fi/~riherund/TIEA218/VT7/ Username and password for testing: username: tiea218@foobar.example password: tiea218
